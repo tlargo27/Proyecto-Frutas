@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruits</string>
+
+    <string-array name="menuPrincipal">
+        <item>Admnistrativos</item>
+        <item>Productos</item>
+        <item>Ventas</item>
+    </string-array>
+</resources>
